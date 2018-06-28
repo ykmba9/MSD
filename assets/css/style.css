@@ -1,0 +1,28 @@
+body {
+    background-image: url("../images/dhoni1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-decoration-style: solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
+
+div{
+    color:white ;
+    font-size: 15px;
+    text-decoration-style: solid;
+	margin: 15px;
+    width: 90%;
+}
+
+h3{
+    font-weight: bold;
+    text-align: center;
+}
+
+footer { 
+    display: block;
+    height: 100px;
+    background: yellowgreen;
+}
