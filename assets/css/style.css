@@ -21,8 +21,11 @@ h3{
     text-align: center;
 }
 
-footer { 
-    display: block;
-    height: 100px;
-    background: yellowgreen;
+
+footer {
+    background-color: rgb(10, 172, 45);
+    height: 65px;
+    text-align: center;
+    color: darkslategray;
+    padding-top: 15px;
 }
